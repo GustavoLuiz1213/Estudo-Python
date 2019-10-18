@@ -1,0 +1,13 @@
+# Crie um script Python que leia dois numeros e tente mostrar a soma entre eles.
+
+
+
+
+
+
+
+
+a = int(input('Digite o Primeiro Numero: '))
+b = int(input('Digite o Segundo Numero: '))
+soma = (a+b)
+print('A soma entre {} e {} é: {}.'.format(a, b, soma))
