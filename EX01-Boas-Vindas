@@ -1,0 +1,15 @@
+# Crie um script Python que leia o nome de uma pessoa e mostre uma
+# Mensagem de boas-vindas de acordo com o valor digitado.
+
+
+
+
+
+
+
+
+
+
+#Resolução
+nome = input('Informe seu nome: ')
+print ('Olá {} ! Boas-Vindas'.format(nome))
